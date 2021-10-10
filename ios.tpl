@@ -27,6 +27,7 @@
 */
 
 #include <xc.h>
+#include <stdbool.h>
 
 #define INPUT   1
 #define OUTPUT  0
